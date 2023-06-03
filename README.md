@@ -8,5 +8,5 @@ Leetcode練習
 <p><a href="https://www.youtube.com/watch?v=6k5fsaHHTYM"target="_blank">作業b［tree］</a><p>
 <p><a href="https://www.youtube.com/watch?v=HgAiuXDbtUs"target="_blank">作業C［Binary search］</a><p>
 <p><a href="https://www.youtube.com/watch?v=jdR-DgFtoHs&t=13s"target="_blank">作業D［Binary search］</a><p>
-<p><a href="https://www.youtube.com/watch?v=KTke1-lfxRs"target="_blank">作業e［Heap］［Binary search］</a><p>
-<p><a href="https://www.youtube.com/watch?v=ZbdEK1Qv7Sk"target="_blank">作業e［stack］［Binary search］</a><p>
+<p><a href="https://www.youtube.com/watch?v=KTke1-lfxRs"target="_blank">作業e［Heap］</a><p>
+<p><a href="https://www.youtube.com/watch?v=ZbdEK1Qv7Sk"target="_blank">作業e［stack］</a><p>
